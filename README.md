@@ -5,7 +5,9 @@ It is a web flask application which takes live video feed through a computer's w
 
 
 -->The code uses Python language only.
+
 -->It uses convolutional neural network algorithm as deep learning model.
+
 -->It uses python libraries like numpy, tensorflow, opencv, flask, etc.
 -->It uses flask to deploy the application in web.
 -->Its accuracy is 67% .
